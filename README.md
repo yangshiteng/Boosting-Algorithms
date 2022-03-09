@@ -26,14 +26,40 @@ Note: In addition to this, CatBoost does not require conversion of data set to a
 
 ## 1.4 Ensembles
 
-- boosting: weighted vote with a collection of classifiers
 - bagging: averaging the prediction over a collection of classifiers
+- boosting: weighted vote with a collection of classifiers
 - stacking: combining a set of heterogeneous classifiers
 
 ![image](https://user-images.githubusercontent.com/60442877/157384357-dd1e8b01-1e28-4228-901c-3d87765d97a8.png)
 
-## 1.5 Random forest algorithm
+## 1.5 Random forest algorithm (bagging)
 
 ![image](https://user-images.githubusercontent.com/60442877/157384678-8ee0a2b6-cebc-4fc0-a155-a156fccf0f62.png)
 
 Method of random subspaces can help to reduce the correlation between trees and avoid overfitting.
+
+![image](https://user-images.githubusercontent.com/60442877/157384977-f5877e29-f311-4fa2-aadb-2f6c21899b4a.png)
+
+## 1.6 Boosting
+
+![image](https://user-images.githubusercontent.com/60442877/157385122-6d720b22-b063-4c08-a7c0-4d8f51f1d930.png)
+![image](https://user-images.githubusercontent.com/60442877/157385199-ad45daf7-c649-453c-aebd-7fc7708831e3.png)
+
+### 1.61 Gradient Boosting
+
+![image](https://user-images.githubusercontent.com/60442877/157385480-8abb1a7c-0878-4714-b841-1a75ebf034bf.png)
+![image](https://user-images.githubusercontent.com/60442877/157385563-d2546664-f5ed-4873-83ea-4f804c13fe54.png)
+
+### 1.62 Catboost
+
+![image](https://user-images.githubusercontent.com/60442877/157390908-cf8678b7-6d37-4b55-b47e-b2eaf84ca123.png)
+![image](https://user-images.githubusercontent.com/60442877/157390990-b54a4ecb-8ccb-492a-917e-ac3cda8e1e60.png)
+![image](https://user-images.githubusercontent.com/60442877/157391056-3ef35fbe-838e-49bc-81ec-ef606fd8788e.png)
+![image](https://user-images.githubusercontent.com/60442877/157391107-df1f296b-0c5c-4c52-8954-3ea79ddc561f.png)
+![image](https://user-images.githubusercontent.com/60442877/157391129-477e3ba4-bbe0-45fb-b703-7eeacb802cb6.png)
+![image](https://user-images.githubusercontent.com/60442877/157391177-e71554f8-9784-47d4-a194-0bc024c04340.png)
+![image](https://user-images.githubusercontent.com/60442877/157391351-6c1d9162-f7c5-41f3-8919-08ced03911e1.png)
+
+
+
+
