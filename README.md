@@ -1,4 +1,4 @@
-# AdaBoost
+# Gradient Boost
 
 
 
