@@ -1,7 +1,8 @@
 # 1. CatBoost
 
-- https://catboost.ai/en/docs/concepts/installation
-- Based on gradient boosting on decision trees
+https://catboost.ai/en/docs/concepts/installation
+
+CatBoost is an algorithm for gradient boosting on decision trees. It is developed by Yandex researchers and engineers, and is used for search, recommendation systems, personal assistant, self-driving cars, weather prediction and many other tasks at Yandex and in other companies, including CERN, Cloudflare, Careem taxi.
 
 ## 1.1 What is CatBoost
 
