@@ -30,3 +30,10 @@ Note: In addition to this, CatBoost does not require conversion of data set to a
 - bagging: averaging the prediction over a collection of classifiers
 - stacking: combining a set of heterogeneous classifiers
 
+![image](https://user-images.githubusercontent.com/60442877/157384357-dd1e8b01-1e28-4228-901c-3d87765d97a8.png)
+
+## 1.5 Random forest algorithm
+
+![image](https://user-images.githubusercontent.com/60442877/157384678-8ee0a2b6-cebc-4fc0-a155-a156fccf0f62.png)
+
+Method of random subspaces can help to reduce the correlation between trees and avoid overfitting.
