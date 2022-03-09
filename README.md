@@ -23,3 +23,10 @@ Note: In addition to this, CatBoost does not require conversion of data set to a
 ![image](https://user-images.githubusercontent.com/60442877/157383463-95004f2f-9d53-4e31-8f07-0ae36b164829.png)
 ![image](https://user-images.githubusercontent.com/60442877/157383474-52797169-ca13-4c6d-ac5f-069f6ee6b1d0.png)
 ![image](https://user-images.githubusercontent.com/60442877/157383597-680761fc-2c27-4308-9785-6db86d017cd2.png)
+
+## 1.4 Ensembles
+
+- boosting: weighted vote with a collection of classifiers
+- bagging: averaging the prediction over a collection of classifiers
+- stacking: combining a set of heterogeneous classifiers
+
